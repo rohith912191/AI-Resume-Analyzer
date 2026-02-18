@@ -1,0 +1,16 @@
+# Virtual Environment
+venvapp/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Uploaded resumes
+Uploaded_Resumes/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
