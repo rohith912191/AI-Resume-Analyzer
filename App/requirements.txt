@@ -9,3 +9,4 @@ pdfminer.six==20220524
 docx2txt==0.8
 plotly==5.10.0
 scikit-learn
+PyMySQL==1.1.0
