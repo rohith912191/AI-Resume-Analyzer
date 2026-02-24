@@ -15,5 +15,7 @@ geopy==2.3.0
 requests==2.31.0
 Pillow==9.5.0
 tqdm==4.66.1
+pdfminer.six==20220524
+pdfminer3==2018.12.3.0
 
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
