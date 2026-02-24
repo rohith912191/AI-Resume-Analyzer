@@ -13,7 +13,7 @@ RUN apt-get update && apt-get install -y \
 COPY . .
 
 RUN pip install --upgrade pip setuptools wheel
-RUN pip install -r App/requirements.txt
+RUN pip install -r requirements.txt
 
 EXPOSE 8501
 
