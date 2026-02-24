@@ -1,13 +1,12 @@
 streamlit==1.12.2
+altair==4.2.0
 pandas==1.4.4
 numpy==1.23.2
 plotly==5.10.0
-
 spacy==2.3.5
 pyresparser==1.0.6
 pdfminer3==2018.12.3.0
 docx2txt==0.8
-
 nltk==3.7
 PyMySQL==1.0.2
 geocoder==1.38.1
